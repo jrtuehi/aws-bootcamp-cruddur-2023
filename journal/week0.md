@@ -1,4 +1,21 @@
 # Week 0 — Billing and Architecture
+Well-Architecture
+Cheap - Fast and good
+
+Requirements  risks assumptions constraints==RRACs implies:  
+-Conceptual design
+-Logical Design
+-Physical design
+
+TOGAF  wel architect framework 
+
+Architecture design: https://aws.amazon.com/architecture/well-architected/
+
+lucidchart  http://lucidchart.com/
+
+memento
+
+https://student.cloudprojectbootcamp.com/
 
 # Architecture Diagram
 
